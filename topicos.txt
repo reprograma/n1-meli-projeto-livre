@@ -1,0 +1,9 @@
++ Pré
+- Modelo: Disponibilizar Arquivo
++ Durante
+- Validação do Documento até 29/11/2019
+- Helena: tempo de resposta de até 2 dias para dar um feedback
++ Apresentação
+- Apresentação do Problema, apiDoc, Postman, GitHub (Entregas)
+- Apresentação: 13/12/2019
+- 3 minutos
